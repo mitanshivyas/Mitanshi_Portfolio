@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latency on Mitanshi Vyas</title>
+    <link>https://mitanshivyas.github.io/Mitanshi_Portfolio/tags/latency/</link>
+    <description>Recent content in Latency on Mitanshi Vyas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mitanshivyas.github.io/Mitanshi_Portfolio/tags/latency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://mitanshivyas.github.io/Mitanshi_Portfolio/post2/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mitanshivyas.github.io/Mitanshi_Portfolio/post2/chapter-1/</guid>
+      <description>Exploring 5G- Technologies, challenges, and 5G for enhancement of IoT
+Pandey, S., Vyas, M., Mangal, A. Department of Electronics and Communication Engineering, UIT-RGPV, Bhopal, India
+5G is the fifth-generation wireless technology for digital cellular networks. The present-day cellular communication requires better quality of service, improved data rate, increased capacity, decreased latency, and improved communication network and security. Various technologies have evolved which will serve as a backbone in the establishment of 5G.</description>
+    </item>
+    
+  </channel>
+</rss>
